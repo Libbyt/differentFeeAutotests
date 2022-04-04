@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainKtTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-04-04T17:50:24" hostname="DESKTOP-864F5FQ" time="0.015">
+  <properties/>
+  <testcase name="commissionCalculate_MasterCard_condition" classname="MainKtTest" time="0.014"/>
+  <testcase name="commissionCalculate_Visa_default" classname="MainKtTest" time="0.0"/>
+  <testcase name="commissionCalculate_Visa_condition" classname="MainKtTest" time="0.0"/>
+  <testcase name="commissionCalculate_VKPay" classname="MainKtTest" time="0.0"/>
+  <testcase name="commissionCalculate_MasterCard_default" classname="MainKtTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
